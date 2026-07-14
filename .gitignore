@@ -36,7 +36,6 @@ linkedin_Profile.pdf
 Thumbs.db
 
 # Editor
-.vscode/
 .idea/
 
 # Memory files (Claude Code user-specific)
@@ -75,3 +74,4 @@ upskill/*.md
 
 # Brainstorm mockups (superpowers visual companion) - never ship
 .superpowers/
+config.bat
